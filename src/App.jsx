@@ -1,4 +1,4 @@
-import ScannerPage from "./components/ScannerPage";
+import ScannerPage from "./Components/ScannerPage";
 
 function App() {
   return (
