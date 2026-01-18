@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@keyframes scanline {
+  0% { top: 0%; }
+  100% { top: 100%; }
+}
+.animate-scanline {
+  position: absolute;
+  animation: scanline 2.5s ease-in-out infinite;
+}
